@@ -3,6 +3,7 @@ body{
 }
 #login{
     width: 90vw;
+    height: 400px;
     display: flex;
 
 }
