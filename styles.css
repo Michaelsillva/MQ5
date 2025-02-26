@@ -35,3 +35,7 @@ main{
 #formulario{
     padding: 10px;
 }
+#formulario p, h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
