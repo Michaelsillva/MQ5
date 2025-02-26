@@ -2,7 +2,7 @@ body{
     background-image: linear-gradient(to bottom, #e3e3d8,#D9AAAB);
 }
 #login{
-    width: 90vw;
+    width: 70vw;
     height: 400px;
     display: flex;
 
@@ -13,4 +13,13 @@ body{
 }
 #formulario{
     width: 60%;
+}
+.icon{
+    margin-left: 50px;
+}
+button{
+    margin-left: 50px;
+}
+a{
+    margin-left: 65px;
 }
